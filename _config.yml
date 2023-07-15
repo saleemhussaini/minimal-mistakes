@@ -114,13 +114,13 @@ I value and enjoy the opportunity to advance business innovation in our digital 
   location         : "Raleigh, NC"
   email            :
   links:
-    label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:saleemhussaini@email.com"
-    label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/saleemhussaini/"
-    label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SaleemHussaini"
     - label: "Facebook"
