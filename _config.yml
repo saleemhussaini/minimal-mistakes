@@ -104,21 +104,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Saleem Hussaini"
+  avatar           : https://media.licdn.com/dms/image/C4E03AQEJsw4-DyWDmQ/profile-displayphoto-shrink_200_200/0/1650145287188?e=1694649600&v=beta&t=RBd3C-HXG3jt-ZNNrTtg7wwJdtaq1QF58SE5y02qJv4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : |
+I am passionate about the use of digital technology in healthcare to improve the lives of patients. I have 25+ years of broad technology experience in various industries and have led diverse global teams and large initiatives in complex matrixed environments. 
+My core competencies are delivering business outcomes, technology and people leadership, creating strategic roadmaps, and change management.
+I value and enjoy the opportunity to advance business innovation in our digital world by partnering with industry leaders, assessing emerging technologies for maturity and applicability to our needs.
+  location         : "Raleigh, NC"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:saleemhussaini@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.linkedin.com/in/saleemhussaini/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/SaleemHussaini"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
