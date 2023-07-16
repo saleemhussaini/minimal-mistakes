@@ -5,7 +5,7 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Musings" }}</h3>
-{% include _includes/shbasicintro.html %}
+{% include shbasicintro.html %}
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
