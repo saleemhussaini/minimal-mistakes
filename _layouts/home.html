@@ -3,7 +3,7 @@ layout: archive
 ---
 
 {{ content }}
-{% include chatbot.html %}
+
 <h3 class="archive__subtitle">{{ "My Musings" }}</h3>
 <!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Musings" }}</h3> -->
 
@@ -11,6 +11,7 @@ layout: archive
 {% include shbasicintro.html %}
 <p>This is a paragraph of text.</p>
 <!-- <p>This paragraph is commented out.</p> -->
+{% include chatbot.html %}
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
